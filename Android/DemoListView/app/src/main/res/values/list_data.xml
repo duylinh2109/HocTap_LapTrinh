@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>SriLanka</item>
+        <item>VietNam</item>
+        <item>Singapore</item>
+        <item>China</item>
+        <item>HongKong</item>
+        <item>ShangHai</item>
+        <item>Manila</item>
+        <item>SriLanka</item>
+        <item>VietNam</item>
+        <item>Singapore</item>
+        <item>China</item>
+        <item>HongKong</item>
+        <item>ShangHai</item>
+        <item>Manila</item>
+    </string-array>
+</resources>
